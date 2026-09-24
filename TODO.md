@@ -1,0 +1,4 @@
+- [x] Update peringatan stunting di `lib/screens/monitoring/monitoring_screen.dart`
+- [x] Auto tulis record ke `health_records` saat user klik **Simpan** di `lib/screens/profile/profile_child_screen.dart`
+- [x] Validasi compile / jalankan aplikasi
+- [x] Verifikasi alur: simpan profil -> monitoring menampilkan status terbaru

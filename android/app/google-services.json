@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919320523624",
+    "project_id": "nutrigrow-4d9e6",
+    "storage_bucket": "nutrigrow-4d9e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919320523624:android:964745c460c30fed2cdcdd",
+        "android_client_info": {
+          "package_name": "com.example.nutrigrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8brSqnXvPtZmAACw7sKQR_rad6OxsCa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
